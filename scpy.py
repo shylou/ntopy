@@ -42,7 +42,7 @@ class scpy(object):
         
 
 def start():
-    scp = scpy('192.168.199.233',22,'liushy','617598659')
+    scp = scpy('192.168.199.233',22,'liushy','password')
     scp.cli()
     scp.scp()
     

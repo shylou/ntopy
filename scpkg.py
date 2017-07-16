@@ -31,7 +31,7 @@ pkg = ''
 host = '192.168.199.233'
 port = 22
 username = 'liushy'
-password = '617598659'
+password = 'password'
 remote_pkg = None
 
 def cli():
